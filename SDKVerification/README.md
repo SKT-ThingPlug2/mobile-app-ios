@@ -1,0 +1,13 @@
+
+SDKVerification App
+===
+SDKVerification App 은 ThingPlug Simple SDK를 이용한 ThingPlug Simple API 동작과 ThingPlug서버와 연동이 정상적인지 확인 하기위한 App입니다.
+
+## 동작
+앱 실행시  
+   - CREATE, RETRIEVE, UPDATE, DELETE 동작이 정상적으로 이루어지는지 보여 줍니다.
+   
+![](SDKVerification.png)
+
+Copyright (c) 2018 SK telecom Co., Ltd. All Rights Reserved.
+Distributed under Apache License Version 2.0. See LICENSE for details.
